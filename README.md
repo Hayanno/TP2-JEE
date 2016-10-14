@@ -1,2 +1,2 @@
 # TP2-JEE
-TP JDBC -|- Fiabilité Logicielle -|- Master 2 -|- Faculté des Sciences de Luminy
+TP JDBC -|- Architecture JEE -|- Master 2 -|- Faculté des Sciences de Luminy
