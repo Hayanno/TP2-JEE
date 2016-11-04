@@ -11,7 +11,7 @@ import services.ResultSetToBean.ResultSetToBean;
 public class JdbcTools {
 	private String url      = "jdbc:mysql://localhost/TP2-JEE";
 	private String user     = "root";
-	private String password = "22itt6";
+	private String password = "";
 	
 	public void setUrl(String url) {
 		this.url = url;
